@@ -6,8 +6,15 @@
   <b>AutoFilterBotV3</b>
 </h1>
 
-Powerful Auto Filter bot
-## Features
+A Powerful Auto Filter + Movie Search + Manual Filter Bot.
+This Bot Can Provide Movies In Any Telegram Groups.
+You Can Also Search Movies Via Inline Mode.
+It Can Also Add Manual Filters In Telegram Groups.
+All You Need To Do Is Just Add This Bot To Your Group And Enjoy 🤩.
+
+<h1 align="center">
+  <b>Features</b>
+</h1>
 
 - [x] Auto Filter
 - [x] Manual Filter
@@ -22,9 +29,6 @@ Powerful Auto Filter bot
 - [x] Stats, Users, Chats, Ban, Unban, Leave, Disable, Channel
 - [x] Spelling Check Feature
 - [x] File Store
-## Variables
-
-Read [this](https://telegram.dog/TeamEvamaria/12) before you start messing up with your edits.
 
 ### Required Variables
 * `BOT_TOKEN`: Create a bot using [@BotFather](https://telegram.dog/BotFather), and get the Telegram API token.
@@ -35,6 +39,7 @@ Read [this](https://telegram.dog/TeamEvamaria/12) before you start messing up wi
 * `DATABASE_URI`: [mongoDB](https://www.mongodb.com) URI. Get this value from [mongoDB](https://www.mongodb.com). For more help watch this [video](https://youtu.be/1G1XwEOnxxo)
 * `DATABASE_NAME`: Name of the database in [mongoDB](https://www.mongodb.com). For more help watch this [video](https://youtu.be/1G1XwEOnxxo)
 * `LOG_CHANNEL` : A channel to log the activities of bot. Make sure bot is an admin in the channel.
+
 ### Optional Variables
 * `PICS`: Telegraph links of images to show in start message.( Multiple images can be used separated by space )
 * `FILE_STORE_CHANNEL`: Channel from were file store links of posts should be made.Separate multiple IDs by space
