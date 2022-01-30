@@ -28,34 +28,6 @@ All You Need To Do Is Just Add This Bot To Your Group And Enjoy 🤩.
 - [x] Spelling Check Feature
 - [x] File Store
 
-### Required Variables
-* `BOT_TOKEN`: Create a bot using [@BotFather](https://telegram.dog/BotFather), and get the Telegram API token.
-* `API_ID`: Get this value from [telegram.org](https://my.telegram.org/apps).
-* `API_HASH`: Get this value from [telegram.org](https://my.telegram.org/apps).
-* `CHANNELS`: Username or ID of channel or group. Separate multiple IDs by space.
-* `ADMINS`: Username or ID of Admin. Separate multiple Admins by space.
-* `DATABASE_URI`: [mongoDB](https://www.mongodb.com) URI. Get this value from [mongoDB](https://www.mongodb.com).
-* `DATABASE_NAME`: Name of the database in [mongoDB](https://www.mongodb.com). 
-* `LOG_CHANNEL` : A channel to log the activities of bot. Make sure bot is an admin in the channel.
-
-### Optional Variables
-* `PICS`: Telegraph links of images to show in start message.( Multiple images can be used separated by space )
-* `FILE_STORE_CHANNEL`: Channel from were file store links of posts should be made.Separate multiple IDs by space
-* Check [info.py](https://github.com/EvamariaTG/evamaria/blob/master/info.py) for more
-
-
-## Deploy
-
-<details><summary>Deploy To Heroku</summary>
-<p>
-<br>
-<a href="https://telegram.dog/XTZ_HerokuBot?start=RXZhbWFyaWFURy9FdmFNYXJpYSBtYXN0ZXI">
-  <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
-</a>
-</p>
-</details>
-
-
 ## Commands
 ```
 • /logs - to get the rescent errors.
@@ -84,6 +56,34 @@ All You Need To Do Is Just Add This Bot To Your Group And Enjoy 🤩.
 • /batch - to create link for multiple posts
 • /link - to create link for one post
 ```
+
+### Required Variables
+* `BOT_TOKEN`: Create a bot using [@BotFather](https://telegram.dog/BotFather), and get the Telegram API token.
+* `API_ID`: Get this value from [telegram.org](https://my.telegram.org/apps).
+* `API_HASH`: Get this value from [telegram.org](https://my.telegram.org/apps).
+* `CHANNELS`: Username or ID of channel or group. Separate multiple IDs by space.
+* `ADMINS`: Username or ID of Admin. Separate multiple Admins by space.
+* `DATABASE_URI`: [mongoDB](https://www.mongodb.com) URI. Get this value from [mongoDB](https://www.mongodb.com).
+* `DATABASE_NAME`: Name of the database in [mongoDB](https://www.mongodb.com). 
+* `LOG_CHANNEL` : A channel to log the activities of bot. Make sure bot is an admin in the channel.
+
+### Optional Variables
+* `PICS`: Telegraph links of images to show in start message.( Multiple images can be used separated by space )
+* `FILE_STORE_CHANNEL`: Channel from were file store links of posts should be made.Separate multiple IDs by space
+* Check [info.py](https://github.com/EvamariaTG/evamaria/blob/master/info.py) for more
+
+
+## Deploy
+
+<details><summary>Deploy To Heroku</summary>
+<p>
+<br>
+<a href="https://telegram.dog/XTZ_HerokuBot?start=RXZhbWFyaWFURy9FdmFNYXJpYSBtYXN0ZXI">
+  <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
+</a>
+</p>
+</details>
+
 ## Support
 [![telegram badge](https://img.shields.io/badge/Telegram-Group-30302f?style=flat&logo=telegram)](https://telegram.dog/EvaMariaSupport)
 [![telegram badge](https://img.shields.io/badge/Telegram-Channel-30302f?style=flat&logo=telegram)](https://telegram.dog/TeamEvamaria)
