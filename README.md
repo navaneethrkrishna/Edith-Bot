@@ -12,9 +12,7 @@ You Can Also Search Movies Via Inline Mode.
 It Can Also Add Manual Filters In Telegram Groups.
 All You Need To Do Is Just Add This Bot To Your Group And Enjoy 🤩.
 
-<h1 align="center">
-  <b>Features ⚡️</b>
-</h1>
+## Features ⚡️
 
 - [x] Auto Filter
 - [x] Manual Filter
