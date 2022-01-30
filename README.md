@@ -28,7 +28,7 @@ All You Need To Do Is Just Add This Bot To Your Group And Enjoy 🤩.
 - [x] Spelling Check Feature
 - [x] File Store
 
-## Commands
+## Commands 🗣️
 ```
 • /logs - to get the rescent errors.
 • /stats - to get status of files in db.
