@@ -3,7 +3,7 @@
   <img src="https://telegra.ph/file/fd2ca315b0c562b609ff9.jpg" alt="view">
 </p>
 <h1 align="center">
-  <b>AutoFilterBotV3</b>
+  <b>🤖 AutoFilterBotV3 🤖</b>
 </h1>
 
 A Powerful Auto Filter + Movie Search + Manual Filter Bot.
@@ -13,7 +13,7 @@ It Can Also Add Manual Filters In Telegram Groups.
 All You Need To Do Is Just Add This Bot To Your Group And Enjoy 🤩.
 
 <h1 align="center">
-  <b>Features</b>
+  <b>⚡️ Features ⚡️</b>
 </h1>
 
 - [x] Auto Filter
