@@ -28,7 +28,7 @@ All You Need To Do Is Just Add This Bot To Your Group And Enjoy 🤩.
 - [x] Stats, Users, Chats, Ban, Unban, Leave, Disable, Channel
 - [x] Spelling Check Feature
 - [x] File Store
-
+----
 ## Commands 🗣️
 ```
 • /logs - to get the rescent errors.
@@ -57,7 +57,7 @@ All You Need To Do Is Just Add This Bot To Your Group And Enjoy 🤩.
 • /batch - to create link for multiple posts
 • /link - to create link for one post
 ```
-
+----
 ## Deploy To Heroku ♾️
 
 <p align="center">
