@@ -66,7 +66,8 @@ All You Need To Do Is Just Add This Bot To Your Group And Enjoy 🤩.
 
 ----
 
-## Support
+## Support 🤝
 [![telegram badge](https://img.shields.io/badge/Telegram-Group-30302f?style=flat&logo=telegram)](https://telegram.dog/Starkbotz_SupportGroup)
 [![telegram badge](https://img.shields.io/badge/Telegram-Channel-30302f?style=flat&logo=telegram)](https://telegram.dog/Starkbotz)
+
 ----
