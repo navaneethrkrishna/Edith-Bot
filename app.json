@@ -1,22 +1,20 @@
 {
-    "name": "EvaMariaBot",
-    "description": "When you going to send file on telegram channel this bot will save that in database, So you can search that easily in inline mode",
+    "name": "AutoFilterBotV3",
+    "description": "A Powerful AutoFilter + Manual Filter + Inline Movie Search bot",
+    "logo": "https://telegra.ph/file/fd2ca315b0c562b609ff9.jpg"
     "stack": "container",
     "keywords": [
       "telegram",
-      "auto-filter",
+      "auto",
       "filter",
-      "best",
-      "indian",
-      "pyrogram",
+      "manual",
+      "filter",
       "media",
       "search",
-      "channel",
-      "index",
-      "inline"
+      "robot"
     ],
-    "website": "https://github.com/EvamariaTG/EvaMaria",
-    "repository": "https://github.com/EvamariaTG/EvaMaria",
+    "website": "https://t.me/Starkbotz",
+    "repository": "https://github.com/SpideyserTG/AutoFilterBotV3",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
