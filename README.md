@@ -31,31 +31,31 @@ All You Need To Do Is Just Add This Bot To Your Group And Enjoy 🤩.
 ----
 ## Commands 🗣️
 ```
-• /logs - to get the rescent errors.
-• /stats - to get status of files in db.
-* /filter - to add manual filters.
-* /filters - to view all filters.
-* /connect - to connect to PM.
-* /disconnect - to disconnect from PM
-* /del - to delete a filter
-* /delall - to delete all filters
-* /deleteall - to delete all index(autofilter)
-* /delete - to delete a specific file from index.
-* /info - to get user info
-* /id - to get tg ids.
-* /imdb - to fetch info from imdb.
-• /users - to get list of my users and ids.
-• /chats - to get list of the my chats and ids 
-• /index  - to add files from a channel
-• /leave  - to leave from a chat.
-• /disable  - to disable a chat.
-* /enable - to re-enable chat.
-• /ban  - to ban a user.
-• /unban  - to unban a user.
-• /channel - to get list of total connected channels
-• /broadcast - to broadcast a message to all Eva Maria users
-• /batch - to create link for multiple posts
-• /link - to create link for one post
+/logs - to get the rescent errors.
+/stats - to get status of files in db.
+/filter - to add manual filters.
+/filters - to view all filters.
+/connect - to connect to PM.
+/disconnect - to disconnect from PM
+/del - to delete a filter
+/delall - to delete all filters
+/deleteall - to delete all index(autofilter)
+/delete - to delete a specific file from index.
+/info - to get user info
+/id - to get tg ids.
+/imdb - to fetch info from imdb.
+/users - to get list of my users and ids.
+/chats - to get list of the my chats and ids 
+/index  - to add files from a channel
+/leave  - to leave from a chat.
+/disable  - to disable a chat.
+/enable - to re-enable chat.
+/ban  - to ban a user.
+/unban  - to unban a user.
+/channel - to get list of total connected channels
+/broadcast - to broadcast a message to all Eva Maria users
+/batch - to create link for multiple posts
+/link - to create link for one post
 ```
 ----
 ## Deploy To Heroku ♾️
