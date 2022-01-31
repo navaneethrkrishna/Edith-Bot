@@ -18,6 +18,7 @@ All You Need To Do Is Just Add This Bot To Your Group And Enjoy 🤩.
 - [x] Manual Filter
 - [x] IMDB Poster And Rating
 - [x] Admin Commands
+- [x] Custom File Caption
 - [x] Broadcast
 - [x] Index
 - [x] IMDB search
