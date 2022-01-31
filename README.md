@@ -16,7 +16,7 @@ All You Need To Do Is Just Add This Bot To Your Group And Enjoy 🤩.
 
 - [x] Auto Filter
 - [x] Manual Filter
-- [x] IMDB
+- [x] IMDB Poster And Rating
 - [x] Admin Commands
 - [x] Broadcast
 - [x] Index
