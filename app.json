@@ -1,7 +1,7 @@
 {
     "name": "AutoFilterBotV3",
     "description": "A Powerful AutoFilter + Manual Filter + Inline Movie Search bot",
-    "logo": "https://telegra.ph/file/fd2ca315b0c562b609ff9.jpg"
+    "logo": "https://telegra.ph/file/fd2ca315b0c562b609ff9.jpg",
     "stack": "container",
     "keywords": [
       "telegram",
