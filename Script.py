@@ -17,21 +17,26 @@ class script(object):
 🔔 𝚄𝙿𝙳𝙰𝚃𝙴𝚂 𝙲𝙷𝙰𝙽𝙽𝙴𝙻 : <a href=https://t.me/Starkbotz>𝚂𝚝𝚊𝚛𝚔 𝙱𝚘𝚝𝚣 𝚄𝚙𝚍𝚊𝚝𝚎𝚜</a>
 🎬 𝙾𝙵𝙵𝙸𝙲𝙸𝙰𝙻 𝙼𝙾𝚅𝙸𝙴 𝙶𝚁𝙾𝚄𝙿 : <a href=https://t.me/Stark_Family_Official>𝚂𝚝𝚊𝚛𝚔 𝙵𝚊𝚖𝚒𝚕𝚢</a>
 📂 𝙾𝙵𝙵𝙸𝙲𝙸𝙰𝙻 𝙵𝙸𝙻𝙴 𝙲𝙷𝙰𝙽𝙽𝙴𝙻 : <a href=https://t.me/Allinonestorems>𝙲𝚕𝚒𝚌𝚔 𝙷𝚎𝚛𝚎</a>
+"""
 
-• Edith is not an open source project. 
-• Source - https://t.me/Starkbotz 
 
-Powered By :
-• @Starkbotz
 
-👤 Owner : @Spidey_Ser_TG
-👥 Developers :
-@AlanWalker_TG ,
-@THE_WOLVERINE_OF_TG ,
-@hiten003 ,
-@ivar_bonel ,
-@M_a_r_k_94 ,
-@DayaneRock ."""
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
     SOURCE_TXT = """<b>NOTE:</b>
 - Stark botz is a not open source project. 
 - Source - https://t.me/Starkbotz 
