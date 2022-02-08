@@ -30,7 +30,7 @@ so dont wast time
 <b>DEVS:</b>
 - <a href=https://t.me/Starkbotz>Starkbotz</a>"""
     MANUELFILTER_TXT = """Help: <b>Filters</b>
-- Filter is the feature were users can set automated replies for a particular keyword and tessa will respond whenever a keyword is found the message
+- Filter is the feature were users can set automated replies for a particular keyword and the bot will respond whenever a keyword is found in any message
 <b>NOTE:</b>
 1. Bot should have admin privillages.
 2. Only admins can add filters in a chat.
