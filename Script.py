@@ -4,11 +4,20 @@ class script(object):
 𝙸 𝙰𝚖 𝙰 𝙿𝚘𝚠𝚎𝚛𝚏𝚞𝚕 𝙰𝚞𝚝𝚘 𝙵𝚒𝚕𝚝𝚎𝚛 𝙱𝚘𝚝,
 𝙹𝚄𝚂𝚃 𝙰𝙳𝙳 𝙼𝙴 𝚃𝙾 𝚈𝙾𝚄𝚁 𝙶𝚁𝙾𝚄𝙿 𝙰𝙽𝙳 𝙴𝙽𝙹𝙾𝚈 ⚡️
 𝐌𝐚𝐝𝐞 𝐖𝐢𝐭𝐡 ❤️ 𝐁𝐲 @StarkBotz
-𝐌𝐚𝐢𝐧𝐭𝐚𝐢𝐧𝐞𝐝 𝐁𝐲 @Spidey_Ser_TG"""
+"""
     HELP_TXT = """𝙷𝙴𝚈 {}
 𝙷𝙴𝚁𝙴 𝙸𝚂 𝚃𝙷𝙴 𝙷𝙴𝙻𝙿 𝙼𝙴𝙽𝚄 𝙵𝙾𝚁 𝙼𝚈 𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂."""
-    ABOUT_TXT = """✯ 𝙼𝚈 𝙽𝙰𝙼𝙴 : <a href=https://t.me/Stark_AutoFilter_Bot>🄴🄳🄸🅃🄷</a>
-NOTE:
+    ABOUT_TXT = """🤖 𝙼𝚈 𝙽𝙰𝙼𝙴 : <a href=https://t.me/Stark_AutoFilter_Bot>🄴🄳🄸🅃🄷</a>
+👑 𝙲𝚁𝙴𝙰𝚃𝙾𝚁: @Spidey_Ser_TG
+📝 𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎 : 𝙿𝚈𝚃𝙷𝙾𝙽 3
+📚 𝙻𝙸𝙱𝚁𝙰𝚁𝚈 : 𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼
+🗂️ 𝙳𝙰𝚃𝙰 𝙱𝙰𝚂𝙴 : 𝙼𝙾𝙽𝙶𝙾 𝙳𝙱
+💡 𝙱𝙾𝚃 𝚂𝙴𝚁𝚅𝙴𝚁 : 𝙷𝙴𝚁𝙾𝙺𝚄
+👥 𝚂𝚞𝚙𝚙𝚘𝚛𝚝 𝙶𝚛𝚘𝚞𝚙 : <a href=https://t.me/Starkbotz_SupportGroup>𝚂𝚝𝚊𝚛𝚔 𝙱𝚘𝚝𝚣 𝚂𝚞𝚙𝚙𝚘𝚛𝚝</a>
+🔔 𝚄𝚙𝚍𝚊𝚝𝚎𝚜 𝙲𝚑𝚊𝚗𝚗𝚎𝚕 : <a href=https://t.me/Starkbotz>𝚂𝚝𝚊𝚛𝚔 𝙱𝚘𝚝𝚣 𝚄𝚙𝚍𝚊𝚝𝚎𝚜</a>
+📂 Official File Channel : <a href=https://t.me/Allinonestorems>𝙲𝚕𝚒𝚌𝚔 𝙷𝚎𝚛𝚎</a>
+🎬 Official Movie Group : <a href=https://t.me/Stark_Family_Official>𝚂𝚝𝚊𝚛𝚔 𝙵𝚊𝚖𝚒𝚕𝚢</a>
+
 • Edith is not an open source project. 
 • Source - https://t.me/Starkbotz 
 
