@@ -32,9 +32,9 @@ so dont wast time
     MANUELFILTER_TXT = """Help: <b>Filters</b>
 - Filter is the feature were users can set automated replies for a particular keyword and tessa will respond whenever a keyword is found the message
 <b>NOTE:</b>
-1. http://t.me/Stark_AutoFilter_Bot should have admin privillage.
-2. only admins can add filters in a chat.
-3. alert buttons have a limit of 64 characters.
+1. Bot should have admin privillages.
+2. Only admins can add filters in a chat.
+3. Alert buttons have a limit of 64 characters.
 <b>Commands and Usage:</b>
 • /filter - <code>add a filter in chat</code>
 • /filters - <code>list all the filters of a chat</code>
