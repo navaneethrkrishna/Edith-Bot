@@ -44,7 +44,7 @@ class script(object):
 
 <b>DEVS:</b>
 • @AlanWalker_TG
-• @THE_WOLVERINE_OF_TG
+• @MR_WOLVERINE
 • @ivar_bonel
 • @Dawyane
 • @Darkz_devil
