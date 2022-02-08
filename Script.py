@@ -9,14 +9,14 @@ class script(object):
 𝙷𝙴𝚁𝙴 𝙸𝚂 𝚃𝙷𝙴 𝙷𝙴𝙻𝙿 𝙼𝙴𝙽𝚄 𝙵𝙾𝚁 𝙼𝚈 𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂."""
     ABOUT_TXT = """🤖 𝙼𝚈 𝙽𝙰𝙼𝙴 : <a href=https://t.me/Stark_AutoFilter_Bot>🄴🄳🄸🅃🄷</a>
 👑 𝙲𝚁𝙴𝙰𝚃𝙾𝚁: @Spidey_Ser_TG
-📝 𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎 : 𝙿𝚈𝚃𝙷𝙾𝙽 3
+📝 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴 : 𝙿𝚈𝚃𝙷𝙾𝙽 3
 📚 𝙻𝙸𝙱𝚁𝙰𝚁𝚈 : 𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼
 🗂️ 𝙳𝙰𝚃𝙰 𝙱𝙰𝚂𝙴 : 𝙼𝙾𝙽𝙶𝙾 𝙳𝙱
 💡 𝙱𝙾𝚃 𝚂𝙴𝚁𝚅𝙴𝚁 : 𝙷𝙴𝚁𝙾𝙺𝚄
-👥 𝚂𝚞𝚙𝚙𝚘𝚛𝚝 𝙶𝚛𝚘𝚞𝚙 : <a href=https://t.me/Starkbotz_SupportGroup>𝚂𝚝𝚊𝚛𝚔 𝙱𝚘𝚝𝚣 𝚂𝚞𝚙𝚙𝚘𝚛𝚝</a>
-🔔 𝚄𝚙𝚍𝚊𝚝𝚎𝚜 𝙲𝚑𝚊𝚗𝚗𝚎𝚕 : <a href=https://t.me/Starkbotz>𝚂𝚝𝚊𝚛𝚔 𝙱𝚘𝚝𝚣 𝚄𝚙𝚍𝚊𝚝𝚎𝚜</a>
-🎬 Official Movie Group : <a href=https://t.me/Stark_Family_Official>𝚂𝚝𝚊𝚛𝚔 𝙵𝚊𝚖𝚒𝚕𝚢</a>
-📂 Official File Channel : <a href=https://t.me/Allinonestorems>𝙲𝚕𝚒𝚌𝚔 𝙷𝚎𝚛𝚎</a>
+👥 𝚂𝚄𝙿𝙿𝙾𝚁𝚃 𝙶𝚁𝙾𝚄𝙿 : <a href=https://t.me/Starkbotz_SupportGroup>𝚂𝚝𝚊𝚛𝚔 𝙱𝚘𝚝𝚣 𝚂𝚞𝚙𝚙𝚘𝚛𝚝</a>
+🔔 𝚄𝙿𝙳𝙰𝚃𝙴𝚂 𝙲𝙷𝙰𝙽𝙽𝙴𝙻 : <a href=https://t.me/Starkbotz>𝚂𝚝𝚊𝚛𝚔 𝙱𝚘𝚝𝚣 𝚄𝚙𝚍𝚊𝚝𝚎𝚜</a>
+🎬 𝙾𝙵𝙵𝙸𝙲𝙸𝙰𝙻 𝙼𝙾𝚅𝙸𝙴 𝙶𝚁𝙾𝚄𝙿 : <a href=https://t.me/Stark_Family_Official>𝚂𝚝𝚊𝚛𝚔 𝙵𝚊𝚖𝚒𝚕𝚢</a>
+📂 𝙾𝙵𝙵𝙸𝙲𝙸𝙰𝙻 𝙵𝙸𝙻𝙴 𝙲𝙷𝙰𝙽𝙽𝙴𝙻 : <a href=https://t.me/Allinonestorems>𝙲𝚕𝚒𝚌𝚔 𝙷𝚎𝚛𝚎</a>
 
 • Edith is not an open source project. 
 • Source - https://t.me/Starkbotz 
