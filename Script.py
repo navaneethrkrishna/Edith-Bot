@@ -41,10 +41,10 @@ so dont wast time
 • /del - <code>delete a specific filter in chat</code>
 • /delall - <code>delete the whole filters in a chat (chat owner only)</code>"""
     BUTTON_TXT = """Help: <b>Buttons</b>
-- Eva Maria Supports both url and alert inline buttons.
+- @Stark_AutoFilter_Bot Supports both url and alert inline buttons.
 <b>NOTE:</b>
 1. Telegram will not allows you to send buttons without any content, so content is mandatory.
-2. Eva Maria supports buttons with any telegram media type.
+2. @Stark_AutoFilter_Bot supports buttons with any telegram media type.
 3. Buttons should be properly parsed as markdown format
 <b>URL buttons:</b>
 <code>[Button Text](buttonurl:https//t.me/🄴🄳🄸🅃🄷)</code>
