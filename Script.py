@@ -15,8 +15,8 @@ class script(object):
 💡 𝙱𝙾𝚃 𝚂𝙴𝚁𝚅𝙴𝚁 : 𝙷𝙴𝚁𝙾𝙺𝚄
 👥 𝚂𝚞𝚙𝚙𝚘𝚛𝚝 𝙶𝚛𝚘𝚞𝚙 : <a href=https://t.me/Starkbotz_SupportGroup>𝚂𝚝𝚊𝚛𝚔 𝙱𝚘𝚝𝚣 𝚂𝚞𝚙𝚙𝚘𝚛𝚝</a>
 🔔 𝚄𝚙𝚍𝚊𝚝𝚎𝚜 𝙲𝚑𝚊𝚗𝚗𝚎𝚕 : <a href=https://t.me/Starkbotz>𝚂𝚝𝚊𝚛𝚔 𝙱𝚘𝚝𝚣 𝚄𝚙𝚍𝚊𝚝𝚎𝚜</a>
-📂 Official File Channel : <a href=https://t.me/Allinonestorems>𝙲𝚕𝚒𝚌𝚔 𝙷𝚎𝚛𝚎</a>
 🎬 Official Movie Group : <a href=https://t.me/Stark_Family_Official>𝚂𝚝𝚊𝚛𝚔 𝙵𝚊𝚖𝚒𝚕𝚢</a>
+📂 Official File Channel : <a href=https://t.me/Allinonestorems>𝙲𝚕𝚒𝚌𝚔 𝙷𝚎𝚛𝚎</a>
 
 • Edith is not an open source project. 
 • Source - https://t.me/Starkbotz 
