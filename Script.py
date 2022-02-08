@@ -7,7 +7,7 @@ class script(object):
 𝐌𝐚𝐢𝐧𝐭𝐚𝐢𝐧𝐞𝐝 𝐁𝐲 @Spidey_Ser_TG"""
     HELP_TXT = """𝙷𝙴𝚈 {}
 𝙷𝙴𝚁𝙴 𝙸𝚂 𝚃𝙷𝙴 𝙷𝙴𝙻𝙿 𝙼𝙴𝙽𝚄 𝙵𝙾𝚁 𝙼𝚈 𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂."""
-    ABOUT_TXT = """✯ 𝙼𝚈 𝙽𝙰𝙼𝙴 : [🄴🄳🄸🅃🄷](https://t.me/Stark_AutoFilter_Bot)
+    ABOUT_TXT = """✯ 𝙼𝚈 𝙽𝙰𝙼𝙴 : 🄴🄳🄸🅃🄷
 NOTE:
 • Edith is not an open source project. 
 • Source - https://t.me/Starkbotz 
