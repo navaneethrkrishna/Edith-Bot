@@ -17,7 +17,8 @@ class script(object):
 🔔 𝚄𝙿𝙳𝙰𝚃𝙴𝚂 𝙲𝙷𝙰𝙽𝙽𝙴𝙻 : <a href=https://t.me/Starkbotz>𝚂𝚝𝚊𝚛𝚔 𝙱𝚘𝚝𝚣 𝚄𝚙𝚍𝚊𝚝𝚎𝚜</a>
 🎬 𝙾𝙵𝙵𝙸𝙲𝙸𝙰𝙻 𝙼𝙾𝚅𝙸𝙴 𝙶𝚁𝙾𝚄𝙿 : <a href=https://t.me/Stark_Family_Official>𝚂𝚝𝚊𝚛𝚔 𝙵𝚊𝚖𝚒𝚕𝚢</a>
 📂 𝙾𝙵𝙵𝙸𝙲𝙸𝙰𝙻 𝙵𝙸𝙻𝙴 𝙲𝙷𝙰𝙽𝙽𝙴𝙻 : <a href=https://t.me/Allinonestorems>𝙲𝚕𝚒𝚌𝚔 𝙷𝚎𝚛𝚎</a>
-"""
+📜 𝚀𝚄𝙾𝚃𝙴 : ആരും പേടിക്കണ്ട എല്ലാവർക്കും കിട്ടും ☺️
+📄 𝙽𝙾𝚃𝙸𝙲𝙴 : <a href=https://telegra.ph/-02-08-417>𝙲𝚕𝚒𝚌𝚔 𝙷𝚎𝚛𝚎</a>"""
 
 
 
