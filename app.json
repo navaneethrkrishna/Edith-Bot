@@ -13,8 +13,8 @@
       "search",
       "robot"
     ],
-    "website": "https://t.me/Starkbotz",
-    "repository": "https://github.com/SpideyserTG/AutoFilterBotV3",
+    "website": "https://github.com/SpideyserTG/Edith-Bot",
+    "repository": "https://github.com/SpideyserTG/Edith-Bot",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
