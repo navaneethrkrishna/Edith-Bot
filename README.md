@@ -3,7 +3,7 @@
   <img src="https://telegra.ph/file/fd2ca315b0c562b609ff9.jpg" alt="view">
 </p>
 <h1 align="center">
-  <b>AutoFilterBotV3 🤖</b>
+  <b>Edith Bot 🤖</b>
 </h1>
 
 A Powerful Auto Filter + Movie Search + Manual Filter Bot.
